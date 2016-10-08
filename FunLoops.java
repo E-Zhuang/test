@@ -62,11 +62,6 @@ public class FunLoops
     {
         num = number;
         ones = 0;
-//         tens = 0;
-//         hundreds = 0;
-//         thousands = 0;
-//         hunThousands = 0;
-//         thouThousands = 0;
         base = 10;
         
         while (num > 0)
@@ -80,51 +75,6 @@ public class FunLoops
             base *= 10;
             ones = 0;
         }
-//         if (num >= 10)
-//         {
-//             while (num % 100 != 0)
-//             {
-//                 num -= 10;
-//                 tens++;
-//             }
-//             System.out.print(tens);
-//             if (num >= 100)    
-//             {
-//                 while (num % 1000 != 0)
-//                 {
-//                     num -= 100;
-//                     hundreds++;
-//                 }   
-//                 System.out.print(hundreds);
-//                 if (num >= 1000)
-//                 {
-//                     while (num % 10000 != 0)
-//                     {
-//                         num -= 1000;
-//                         thousands++;
-//                     }
-//                     System.out.print(thousands);
-//                     if (num >= 10000)
-//                     {
-//                         while (num % 100000 != 0)
-//                         {
-//                             num -= 10000;
-//                             hunThousands++;
-//                         }
-//                         System.out.print(hunThousands);
-//                         if(num >= 100000)
-//                         {
-//                             while (num % 1000000 != 0)
-//                             {
-//                                 num -= 100000;
-//                                 thouThousands++;
-//                             }
-//                             System.out.print(thouThousands);
-//                         }
-//                     }
-//                 }        
-//             }
-//         }
     }
     
     /**
