@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FunLoops()
+comment1.params=n
+comment1.target=void\ magicsquares(int)
+comment1.text=\n\ This\ method\ continuously\ adds\ consecutive\ numbers\ until\ it\ passes\ or\ equals\ the\ value\ of\ the\ squared\ value.\ \n\ If\ the\ sum\ of\ the\ consecutive\ numbers\ is\ equal\ to\ the\ square,\ the\ method\ prints\ the\ value\ of\ the\ power.\ \n\ It\ will\ increase\ the\ value\ of\ how\ many\ squares\ were\ printed\ so\ you\ can\ print\ a\ specified\ number\ of\ magic\ squares.\n
+comment2.params=number
+comment2.target=void\ reverse(long)
+comment2.text=\n\ This\ method\ reverses\ the\ value\ of\ the\ integer\ by\ using\ %\ to\ determine\ how\ many\ of\ each\ place\ value\ there\n\ is\ and\ by\ printing\ each\ value\ consecutively.\ \n
+comment3.params=x\ y
+comment3.target=void\ lcm(int,\ int)
+comment3.text=\n\ This\ method\ calculates\ the\ least\ common\ multiple\ by\ starting\ at\ x\ *\ y\ and\ subtracting\ by\ x\ with\ each\ repetition.\n\ It\ then\ tests\ to\ see\ if\ y\ can\ be\ divided\ into\ the\ resulting\ value.\ If\ y\ can\ be\ divided\ evenly\ into\ the\ \n\ resulting\ value,\ it\ redefines\ the\ value\ of\ the\ least\ common\ multiple.\n
+numComments=4

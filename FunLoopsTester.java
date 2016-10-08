@@ -30,12 +30,6 @@ public class FunLoopsTester
         funloops.magicsquares(numMagicSquares);
         System.out.println();
         
-        //prompts the user for an integer to reverse
-        //System.out.println("Enter integer you would like to reverse: ");
-        //num = keyboard.readInt();
-        //funloops.reverse(num);
-        //System.out.println();
-        
         //reverses the integers
         System.out.print("12345 reversed ---> "); 
         funloops.reverse(12345);
